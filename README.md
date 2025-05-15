@@ -65,7 +65,8 @@ Hi, I am **Siddhesh Khedekar**, a passionate **Software Engineer** with **3.7 ye
 
 ## 🚀 Projects
 
-- **[CO2Calculator](https://github.com/SiddheshKhedekar/Co2Calculator)** – A web application that calculates CO₂ emissions from transport, based on vehicle and fuel type.
+- **[CO2Calculator](https://github.com/SiddheshKhedekar/Co2Calculator)** – A Spring Boot api that calculates CO₂ emissions from transport, based on vehicle and fuel type.
+- **[CoinCollection](https://github.com/SiddheshKhedekar/CoinCollection)** – A Spring Boot api to manage a collection of currencies and their coin/note denominations.
 
 ---
 
